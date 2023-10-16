@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying at Telkom University
-- 🌱 I’m currently learning Data Science
+- 🌱 curious about Data Science
 - 👯 I’m looking to collaborate on many people
 - 🤔 I’m looking for help with some insteresting
 - 💬 Ask me about all
